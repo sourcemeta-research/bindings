@@ -1,0 +1,4 @@
+/nodejs/build
+/nodejs/node_modules
+/nodejs/package-lock.json
+/nodejs/generated
